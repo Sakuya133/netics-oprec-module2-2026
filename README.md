@@ -1,6 +1,11 @@
-<img width="1505" height="925" alt="Screenshot_20260331_210031" src="https://github.com/user-attachments/assets/2858967d-bb5f-4543-952d-be475aff15d7" />
+
 
 # netics-oprec-module2-2026
+
+
+|               Nama             |     NRP      |
+| :---------------------------:  | :----------: |
+| Ida Bagus Gde Dimas Sutha Maha | 5025241218   |
 
 ## 1.​ Lakukan instalasi Wazuh Manager pada sebuah VM/VPS berbasis Linux
 (dianjurkan Ubuntu/Debian).
