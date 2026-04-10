@@ -168,6 +168,9 @@ root@vps-netics:/var/ossec/etc/rules#
 </rule>
 </group>
 ```
+## Referensi 
+https://documentation.wazuh.com/current/user-manual/ruleset/rules/custom.html
+https://documentation.wazuh.com/current/user-manual/ruleset/ruleset-xml-syntax/rules.html
 
 ## 5.​ Buat sebuah dokumentasi penjelasan bagaimana kalian menyelesaikan
 penugasan modul 2 ini termasuk Langkah instalasi manager dan agent,
